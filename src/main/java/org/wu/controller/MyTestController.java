@@ -9,6 +9,7 @@ public class MyTestController {
 		System.out.println("���Ƿ�֧����");
 		//gaosuwu
 		System.out.println("fenz");
-
+   System.out.println("kaixin a dedao le 新的技能"); 
+   
 	}
 }
