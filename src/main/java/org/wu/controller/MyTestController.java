@@ -4,9 +4,9 @@ public class MyTestController {
 
 	public static void main(String[] args) {
 		
-		System.out.println("我是分支数据");
+		System.out.println("112");
 		
-		System.out.println("我是分支数据");
+		System.out.println("锟斤拷锟角凤拷支锟斤拷锟斤拷");
 		//gaosuwu
 
 	}
